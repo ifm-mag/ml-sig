@@ -10,5 +10,5 @@ Recent Meetups
 
 
 Useful Tutorials
-1. [Deep Implicit Layers](resources/deep-implicit-layers.txt)
+1. [Deep Implicit Layers](resources/deep-implicit-layers.MD)
 
