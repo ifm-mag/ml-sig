@@ -11,4 +11,9 @@ Recent Meetups
 
 Useful Tutorials
 1. [Deep Implicit Layers](resources/deep-implicit-layers.MD)
+2. [Calculus for Machine Learning](resources/calculus-ml.MD)
+3. [Graph Mining](resources/graph-mining.MD)
 
+Other Virtual ML Communities around the world:
+1. [Trustworthy ML](https://www.trustworthyml.org/)
+2. [ML Collective](http://mlcollective.org/neurips-2020-open-collab-social/)
