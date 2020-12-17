@@ -1,5 +1,5 @@
 # ml-sig
-Welcome to IfM's Machine Learning Special Interest Group!
+Welcome to IfM's Machine Learning Special Interest Group! Join us [here](assets/registration.MD)!
 
 ![Alt text](assets/ml-sig-logo.png)
 
